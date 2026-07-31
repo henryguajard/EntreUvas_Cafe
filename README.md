@@ -1,8 +1,6 @@
 # ☕ Entre Uvas y Café
 
-<p align="center">
-  <img src="./screenshots/banner-readme.png" alt="Entre Uvas y Café" width="900">
-</p>
+
 
 <h3 align="center">
   Aplicación web moderna y responsive para una cafetería, desarrollada con HTML, CSS, JavaScript, Bootstrap y Firebase.
